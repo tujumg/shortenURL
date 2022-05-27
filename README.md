@@ -1,5 +1,4 @@
-<img width="1215" alt="restaurant" src="https://github.com/tujumg/shortenURL/blob/master/%E6%88%AA%E5%9C%96/%E6%88%AA%E5%9C%96%202022-05-27%20%E4%B8%8B%E5%8D%884.54.48.png">
-<img width="1215" alt="restaurant" src="hhttps://github.com/tujumg/shortenURL/blob/master/%E6%88%AA%E5%9C%96/%E6%88%AA%E5%9C%96%202022-05-27%20%E4%B8%8B%E5%8D%884.53.47.png">
+<img width="1215" alt="restaurant" src="https://github.com/tujumg/new/blob/main/%E6%88%AA%E5%9C%96/%E6%88%AA%E5%9C%96%202022-05-27%20%E4%B8%8B%E5%8D%884.54.48.png">
 
 # 關於 shortenURL
 
